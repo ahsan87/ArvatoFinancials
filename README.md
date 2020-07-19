@@ -1,5 +1,5 @@
 # Arvato Financials
-Udacity Machine Learning Nanodegree Capstone Project
+_Udacity Machine Learning Nanodegree Capstone Project_
 
 This consists of the following two project:
 
