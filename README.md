@@ -39,4 +39,4 @@ Following concepts implemented and covered in detail in the notebook:
 
 ### Requirements
 
-All of the requirements are captured in requirements.txt. Run: pip install -r requirements.txt
+All of the requirements are captured in requirements.txt. Run: pip install -r libraries.txt
