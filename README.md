@@ -1,6 +1,7 @@
 # Arvato Financials
 _Udacity Machine Learning Nanodegree Capstone Project_
 
+### Project Structure
 This consists of the following two project:
 
 1. Arvato customer segmentation and comaprison with general population
@@ -23,4 +24,19 @@ This consists of the following two project:
 
 3. ..
 
-    Contains the above two directories and the project proposals and project report.
+    Contains the above two directories and the project proposal & project report.
+
+### Technical Overview
+
+Step by step workflow from data exploration, processing to inference is approached in a structured fashion. We preprocess the data to get rid of unnecessary, undocumented, sparse and outlier data & implement Dimensionality Reduction and Clustering to identify clusters. 
+
+Following concepts implemented and covered in detail in the notebook:
+
+Data Exploration & Cleaning
+Dimensionality Reduction
+Clustering
+
+
+### Requirements
+
+All of the requirements are captured in requirements.txt. Run: pip install -r requirements.txt
