@@ -1,7 +1,7 @@
 # Arvato Financials
 _Udacity Machine Learning Nanodegree Capstone Project_
 
-### Project Structure
+### Project Overview
 This consists of the following two project:
 
 1. Arvato customer segmentation and comaprison with general population
