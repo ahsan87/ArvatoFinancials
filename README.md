@@ -32,9 +32,9 @@ Step by step workflow from data exploration, processing to inference is approach
 
 Following concepts implemented and covered in detail in the notebook:
 
-Data Exploration & Cleaning
-Dimensionality Reduction
-Clustering
+* Data Exploration & Cleaning
+* Dimensionality Reduction
+* Clustering
 
 
 ### Requirements
