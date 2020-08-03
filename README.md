@@ -35,6 +35,8 @@ Following concepts implemented and covered in detail in the notebook:
 * Data Exploration & Cleaning
 * Dimensionality Reduction
 * Clustering
+* Linear Regression
+* XGBoost
 
 
 ### Requirements
