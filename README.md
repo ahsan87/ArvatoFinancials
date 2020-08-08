@@ -12,6 +12,7 @@ This consists of the following two project:
 
     We used the previously done data cleanup techniques, PCA to reduce dimensionality and finally different machine learning algorithm so that we can get an optimal model.
     
+Online Submission of part 2 for Kaggle competition can be viewed [here](https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard).
     
 ### Project Structure
 1. /src
